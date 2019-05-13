@@ -18,6 +18,7 @@ Public Class COMPRA
         txtCantidad.Text = 0
         txtCompraID.Text = GetVentaId()
     End Sub
+   ' ola jose
 
     Private Sub BuscarProductos()
         Dim Comm As SqlCommand
