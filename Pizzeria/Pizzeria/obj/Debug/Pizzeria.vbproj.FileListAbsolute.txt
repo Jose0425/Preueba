@@ -1,0 +1,89 @@
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.xml
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbprojAssemblyReference.cache
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Empleado.resources
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Resources.resources
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbproj.GenerateResource.cache
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbproj.CoreCompileInputs.cache
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.xml
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.VENTA.resources
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.loginform.resources
+C:\Users\HECTOR-PC\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.LoginForm1.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbprojAssemblyReference.cache
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Empleado.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.loginform.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.VENTA.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Resources.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbproj.GenerateResource.cache
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbproj.CoreCompileInputs.cache
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.xml
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.xml
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Acceso.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmProductosVenta.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.ListaDeMateriales.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmVentas.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmPromCombo.resources
+C:\Users\HECTOR\Desktop\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmArticulos.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.xml
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbprojAssemblyReference.cache
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Empleado.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmArticulos.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmProductosVenta.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmVentas.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.ListaDeMateriales.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.loginform.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Acceso.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.VENTA.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Resources.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmPromCombo.resources
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbproj.GenerateResource.cache
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbproj.CoreCompileInputs.cache
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.xml
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.manifest
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.application
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe.manifest
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.application
+D:\HECTOR\Documents\source\repos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.COMPRA.resources
+C:\Users\Usuario\Desktop\Base de Datos\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Users\Usuario\Desktop\Base de Datos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Users\Usuario\Desktop\Base de Datos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.xml
+C:\Users\Usuario\Desktop\Base de Datos\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.manifest
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\bin\Debug\Pizzeria.application
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\bin\Debug\Pizzeria.xml
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbprojAssemblyReference.cache
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.COMPRA.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Empleado.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmArticulos.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmProductosVenta.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmVentas.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.ListaDeMateriales.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.loginform.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Acceso.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.VENTA.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Resources.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.frmPromCombo.resources
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbproj.GenerateResource.cache
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.vbproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe.manifest
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.application
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.xml
+C:\Program Files\Microsoft SQL Server\Base de Datos2gg\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb

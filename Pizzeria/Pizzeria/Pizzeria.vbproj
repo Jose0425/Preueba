@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1B12E248-9F76-44A4-9617-2DA8AE8FD468}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Pizzeria.My.MyApplication</StartupObject>
+    <RootNamespace>Pizzeria</RootNamespace>
+    <AssemblyName>Pizzeria</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\HECTOR\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Pizzeria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Pizzeria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4DA9DD0A594610C766C4E821CE674B329E4ED400</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Pizzeria_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="COMPRA.Designer.vb">
+      <DependentUpon>COMPRA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COMPRA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigPizzeria.vb" />
+    <Compile Include="Empleado.Designer.vb">
+      <DependentUpon>Empleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArticulos.Designer.vb">
+      <DependentUpon>frmArticulos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmArticulos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductosVenta.Designer.vb">
+      <DependentUpon>frmProductosVenta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductosVenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVentas.Designer.vb">
+      <DependentUpon>frmVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaDeMateriales.Designer.vb">
+      <DependentUpon>ListaDeMateriales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListaDeMateriales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginform.Designer.vb">
+      <DependentUpon>loginform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loginform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Promociones y Combos Pizzas.Designer.vb">
+      <DependentUpon>Promociones y Combos Pizzas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Promociones y Combos Pizzas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="COMPRA.resx">
+      <DependentUpon>COMPRA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado.resx">
+      <DependentUpon>Empleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArticulos.resx">
+      <DependentUpon>frmArticulos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductosVenta.resx">
+      <DependentUpon>frmProductosVenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVentas.resx">
+      <DependentUpon>frmVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaDeMateriales.resx">
+      <DependentUpon>ListaDeMateriales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginform.resx">
+      <DependentUpon>loginform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Promociones y Combos Pizzas.resx">
+      <DependentUpon>Promociones y Combos Pizzas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pizzeria_TemporaryKey.pfx" />
+    <None Include="Resources\Save_icon-icons.com_73702.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_file256_25213.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_icon-icons.com_73703.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\documentediting_editdocuments_text_documentedi_2820.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recycle_bin_empty_15383.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486348819-back-backwards-repeat-arrows-arrow-blue_80473.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard-left-arrow-button_icon-icons.com_72692.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard-right-arrow-button-1_icon-icons.com_72690.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486348818-forward-arrows-arrow-front-go-blue_80478.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\navegar-hasta-el-final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-de-flecha-navegar-al-inicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\-exit-to-app_90631.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash_icon-icons.com_51090.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop_13338.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop_13338%281%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-handset_icon-icons.com_48252.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3615755-box-delivery-express-parcel-postman-scooter-service_107909.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1455739788_Kitchen_Bold_Line_Color_Mix-05_icon-icons.com_53393.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\80155038-ilustración-de-logotipo-de-vector-para-el-menú-pizzería-en-rodajas-triángulo-pizza-pizza-caliente-entera-en-la-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\88247.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2394.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginmanager_10029.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
