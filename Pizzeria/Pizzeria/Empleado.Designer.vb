@@ -63,7 +63,9 @@ Partial Class Empleado
         Me.Label14 = New System.Windows.Forms.Label()
         Me.txtSal = New System.Windows.Forms.TextBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'cmbCategoria
@@ -466,6 +468,14 @@ Partial Class Empleado
         Me.PictureBox1.TabIndex = 31
         Me.PictureBox1.TabStop = False
         '
+        'PictureBox2
+        '
+        Me.PictureBox2.Location = New System.Drawing.Point(633, 18)
+        Me.PictureBox2.Name = "PictureBox2"
+        Me.PictureBox2.Size = New System.Drawing.Size(239, 261)
+        Me.PictureBox2.TabIndex = 40
+        Me.PictureBox2.TabStop = False
+        '
         'Empleado
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 15.0!)
@@ -473,6 +483,7 @@ Partial Class Empleado
         Me.BackColor = System.Drawing.Color.Teal
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(1240, 519)
+        Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.txtSal)
         Me.Controls.Add(Me.Label14)
         Me.Controls.Add(Me.Label13)
@@ -517,6 +528,7 @@ Partial Class Empleado
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Empleados:"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -563,4 +575,5 @@ Partial Class Empleado
     Friend WithEvents Label13 As Label
     Friend WithEvents Label14 As Label
     Friend WithEvents txtSal As TextBox
+    Friend WithEvents PictureBox2 As PictureBox
 End Class
